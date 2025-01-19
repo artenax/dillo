@@ -4,7 +4,7 @@ Dillo is a multi-platform graphical web browser, known for its speed and
 small footprint, that is developed with a focus on personal security and
 privacy. It is built with the [FLTK 1.3 GUI toolkit](http://fltk.org).
 
-Screenshot of the [Dillo Website][dillo] rendered in Dillo:
+Screenshot of the [Dillo Website][dillo] rendered in Dillo
 
 [dillo]: https://dillo-browser.github.io/
 
